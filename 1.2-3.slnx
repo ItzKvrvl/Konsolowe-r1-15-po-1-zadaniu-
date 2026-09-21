@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="1.2-3/1.2-3.csproj" />
+  <Project Path="10.3/10.3.csproj" />
+  <Project Path="11.3/11.3.csproj" />
+  <Project Path="12.3/12.3.csproj" />
+  <Project Path="13.3/13.3.csproj" Id="e4b54daf-de1f-4681-9a1e-d9ee46423466" />
+  <Project Path="14.4/14.4.csproj" Id="d042c499-8dd0-47e1-8806-07537511189c" />
+  <Project Path="2.3/2.3.csproj" />
+  <Project Path="3.3/3.3.csproj" />
+  <Project Path="4.3/4.3.csproj" />
+  <Project Path="5.3/5.3.csproj" />
+  <Project Path="6.3/6.3.csproj" />
+  <Project Path="7.3/7.3.csproj" />
+  <Project Path="8.3/8.3.csproj" />
+  <Project Path="9.3/9.3.csproj" />
+</Solution>
